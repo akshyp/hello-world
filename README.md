@@ -2,4 +2,4 @@
 how does this work?
 
 
-More things I don't fully understant
+More things I don't fully understand
